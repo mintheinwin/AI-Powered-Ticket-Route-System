@@ -8,9 +8,9 @@ The project uses a labeled dataset to train and evaluate the model, with mock da
 
 ## Problem Statement
 
-In large-scale software development and IT support environments, defect and support tickets are continuously generated to track issues, bugs, and user requests. These tickets typically contain textual information such as summaries, descriptions, and comments written by developers, testers, and support engineers.
+In large scale software development and IT support environments, defect and support tickets are continuously generated to track issues, bugs, and user requests. These tickets typically contain textual information such as summaries, descriptions, and comments written by developers, testers, and support engineers.
 
-Manually assigning tickets to the appropriate team can be time-consuming and may result in inconsistent classification. Automating this process can help reduce ticket resolution time, improve workflow efficiency, and ensure that issues are routed to the appropriate support team.
+Manually assigning tickets to the appropriate team can be time consuming and may result in inconsistent classification. Automating this process can help reduce ticket resolution time, improve workflow efficiency, and ensure that issues are routed to the appropriate support team.
 
 ## Objective
 
