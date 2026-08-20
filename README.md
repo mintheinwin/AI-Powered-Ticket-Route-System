@@ -37,6 +37,13 @@ The main development steps include:
 7. **classification Report** - Generate a classification report using Assigned Team names.
 8. **Evaluation** – Evaluating the model's ability to correctly classify tickets into the appropriate teams.
 
+## Application Development
+
+1. **Model Testing** – Test the trained model using the `.pth` model format to verify its prediction performance.
+2. **Model Export** – Export and serialize the trained model using the Pickle (`.pkl`) format for application integration and deployment.
+3. **Model Deployment** – Integrate and deploy the trained model in **Streamlit** and **Radio** applications for user interaction and real-time   ticket classification.
+
+
 ## Dataset
 
 Due to data sensitivity and confidentiality considerations, this project uses a **mock dataset(Defect_ticket_v2.csv)** that represents real-world IT defect and support tickets.
