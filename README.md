@@ -1,4 +1,4 @@
-# RoBERTa Model IT Ticket Classification
+# RoBERTa Model Ticket Classification
 
 ## Introduction
 
