@@ -46,7 +46,7 @@ The main development steps include:
 
 ## Dataset
 
-Due to data sensitivity and confidentiality considerations, this project uses a **mock dataset(Defect_ticket_v2.csv)** that represents real-world IT defect and support tickets.
+Due to data sensitivity and confidentiality considerations, this project uses a **mock dataset(Defect_ticket_v2.csv)** that represents real world IT defect and support tickets.
 
 The dataset contains fields such as:
 
