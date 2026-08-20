@@ -1,4 +1,4 @@
-# RoBERTa-Based IT Ticket Classification (Ticket Management System with AI-Powered Routing)
+# RoBERTa-Based IT Ticket Classification
 
 ## Introduction
 
