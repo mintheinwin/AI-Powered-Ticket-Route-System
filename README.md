@@ -70,3 +70,17 @@ Potential improvements for future development include:
 ## Conclusion
 
 This project demonstrates how **RoBERTa and natural language processing (NLP)** can be applied to automate IT ticket classification and routing. By predicting the appropriate support team from ticket content, the proposed approach has the potential to improve operational efficiency and reduce the time required for manual ticket assignment.
+
+# Test Model from HuggingFace Streamlit Application:
+
+* Link: 
+https://huggingface.co/spaces/mintheinwin/Ticket-AI-Powered-Routing-streamlitApp
+
+### Get Testing Input from Dataset
+For model testing, the application reads test data from the `Defect_ticket_v2.csv` dataset. The input text is obtained from the following columns:
+* `Description`
+* `Comment`
+* `Summary`
+
+These three fields are combined and provided as input to the trained RoBERTa model for prediction. The model then predicts the **Assigned Team**, which can be used to retrieve the corresponding **Team Email**.
+
