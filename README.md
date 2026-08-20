@@ -50,9 +50,12 @@ Due to data sensitivity and confidentiality considerations, this project uses a 
 
 The dataset contains fields such as:
 
+* `Ticket Id`
 * `Summary`
 * `Description`
 * `Comment`
+* `Category`
+* `Summary`
 * `Assigned Team`
 * `Team Email`
 
