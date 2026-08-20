@@ -14,7 +14,7 @@ Manually assigning tickets to the appropriate team can be time consuming and may
 
 ## Objective
 
-The main objective of this project is to develop a **RoBERTa-based ticket classification model** that can:
+The main objective of this project is to develop a **RoBERTa model ticket classification model** that can:
 
 * Classify tickets based on their textual content.
 * Predict the appropriate **Assigned Team**.
